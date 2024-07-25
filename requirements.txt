@@ -1,4 +1,4 @@
-torch==2.1.2+cu121
+torch==2.2.0
 torchaudio==2.1.2+cu121
 pydub
 flask
